@@ -31,6 +31,8 @@ Partial Class Form1
         Me.bot_left = New System.Windows.Forms.Button()
         Me.bot_mid = New System.Windows.Forms.Button()
         Me.bot_right = New System.Windows.Forms.Button()
+        Me.restart_btn = New System.Windows.Forms.Button()
+        Me.turn_disp = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'top_left
@@ -106,11 +108,31 @@ Partial Class Form1
         Me.bot_right.TabIndex = 8
         Me.bot_right.UseVisualStyleBackColor = True
         '
+        'restart_btn
+        '
+        Me.restart_btn.Location = New System.Drawing.Point(577, 464)
+        Me.restart_btn.Name = "restart_btn"
+        Me.restart_btn.Size = New System.Drawing.Size(165, 61)
+        Me.restart_btn.TabIndex = 9
+        Me.restart_btn.Text = "Restart"
+        Me.restart_btn.UseVisualStyleBackColor = True
+        '
+        'turn_disp
+        '
+        Me.turn_disp.AutoSize = True
+        Me.turn_disp.Location = New System.Drawing.Point(638, 69)
+        Me.turn_disp.Name = "turn_disp"
+        Me.turn_disp.Size = New System.Drawing.Size(0, 20)
+        Me.turn_disp.TabIndex = 10
+        Me.turn_disp.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(567, 581)
+        Me.ClientSize = New System.Drawing.Size(754, 581)
+        Me.Controls.Add(Me.turn_disp)
+        Me.Controls.Add(Me.restart_btn)
         Me.Controls.Add(Me.bot_right)
         Me.Controls.Add(Me.bot_mid)
         Me.Controls.Add(Me.bot_left)
@@ -123,6 +145,7 @@ Partial Class Form1
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
@@ -135,4 +158,6 @@ Partial Class Form1
     Friend WithEvents bot_left As Button
     Friend WithEvents bot_mid As Button
     Friend WithEvents bot_right As Button
+    Friend WithEvents restart_btn As Button
+    Friend WithEvents turn_disp As Label
 End Class

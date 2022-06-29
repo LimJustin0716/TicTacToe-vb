@@ -1,0 +1,17 @@
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.exe
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.deps.json
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.runtimeconfig.json
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\bin\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.vbproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.Form1.resources
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.vbproj.GenerateResource.cache
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.AssemblyInfo.vb
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.vbproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.dll
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\refint\TicTacToe.dll
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.pdb
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\TicTacToe.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Desktop\TicTacToe\TicTacToe\obj\Debug\net6.0-windows\ref\TicTacToe.dll
