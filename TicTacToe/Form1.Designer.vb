@@ -37,6 +37,7 @@ Partial Class Form1
         '
         'top_left
         '
+        Me.top_left.Font = New System.Drawing.Font("Segoe UI", 80.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.top_left.Location = New System.Drawing.Point(12, 12)
         Me.top_left.Name = "top_left"
         Me.top_left.Size = New System.Drawing.Size(176, 180)
@@ -45,6 +46,7 @@ Partial Class Form1
         '
         'top_mid
         '
+        Me.top_mid.Font = New System.Drawing.Font("Segoe UI", 80.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.top_mid.Location = New System.Drawing.Point(194, 12)
         Me.top_mid.Name = "top_mid"
         Me.top_mid.Size = New System.Drawing.Size(176, 180)
@@ -53,6 +55,7 @@ Partial Class Form1
         '
         'top_right
         '
+        Me.top_right.Font = New System.Drawing.Font("Segoe UI", 80.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.top_right.Location = New System.Drawing.Point(376, 12)
         Me.top_right.Name = "top_right"
         Me.top_right.Size = New System.Drawing.Size(176, 180)
@@ -62,6 +65,7 @@ Partial Class Form1
         'mid_left
         '
         Me.mid_left.AccessibleDescription = ""
+        Me.mid_left.Font = New System.Drawing.Font("Segoe UI", 80.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.mid_left.Location = New System.Drawing.Point(12, 198)
         Me.mid_left.Name = "mid_left"
         Me.mid_left.Size = New System.Drawing.Size(176, 180)
@@ -70,6 +74,7 @@ Partial Class Form1
         '
         'mid
         '
+        Me.mid.Font = New System.Drawing.Font("Segoe UI", 80.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.mid.Location = New System.Drawing.Point(194, 198)
         Me.mid.Name = "mid"
         Me.mid.Size = New System.Drawing.Size(176, 180)
@@ -78,6 +83,7 @@ Partial Class Form1
         '
         'mid_right
         '
+        Me.mid_right.Font = New System.Drawing.Font("Segoe UI", 80.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.mid_right.Location = New System.Drawing.Point(376, 198)
         Me.mid_right.Name = "mid_right"
         Me.mid_right.Size = New System.Drawing.Size(176, 180)
@@ -86,6 +92,7 @@ Partial Class Form1
         '
         'bot_left
         '
+        Me.bot_left.Font = New System.Drawing.Font("Segoe UI", 80.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.bot_left.Location = New System.Drawing.Point(12, 384)
         Me.bot_left.Name = "bot_left"
         Me.bot_left.Size = New System.Drawing.Size(176, 180)
@@ -94,6 +101,7 @@ Partial Class Form1
         '
         'bot_mid
         '
+        Me.bot_mid.Font = New System.Drawing.Font("Segoe UI", 80.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.bot_mid.Location = New System.Drawing.Point(194, 384)
         Me.bot_mid.Name = "bot_mid"
         Me.bot_mid.Size = New System.Drawing.Size(176, 180)
@@ -102,6 +110,7 @@ Partial Class Form1
         '
         'bot_right
         '
+        Me.bot_right.Font = New System.Drawing.Font("Segoe UI", 80.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.bot_right.Location = New System.Drawing.Point(376, 384)
         Me.bot_right.Name = "bot_right"
         Me.bot_right.Size = New System.Drawing.Size(176, 180)
